@@ -186,6 +186,8 @@ git push
 
 #### Create a Pull Request
 
-Once you've completed your changes and are ready to request to merge them into the main repository, you'll ned to create a pull request.
+Once you've completed your changes and are ready to request to merge them into the main repository, you'll need to create a pull request (PR).
 
-TODO: Complete this section
+There are a couple ways to do this.
+
+TODO: Finish section
